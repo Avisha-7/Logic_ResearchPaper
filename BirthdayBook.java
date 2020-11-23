@@ -38,7 +38,7 @@ public class BirthdayBook
 		this.names.add(name);
 		this.dates.add(date);
 		hwm++;
-		return "Birthday added successfully";
+		return "Birthday has been added successfully";
 	}
 	
 	public String findBirthday(String name)
